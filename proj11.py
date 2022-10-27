@@ -1,6 +1,6 @@
 ##############################################################################
 #
-#    Computer Project #11
+#    PYTHON MAPS APPLICATION - Marcus Wolff
 #
 #    Algorithm
 #        
